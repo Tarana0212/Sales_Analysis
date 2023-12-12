@@ -34,6 +34,7 @@ Business Questions
 	-> Technology category has highest sale with 763445.93.
 
 7- write a query to print sub categories where we have all 3 kinds of returns (others,bad quality,wrong items).
+
 	-> Office Supllies has most number of returned orders. Lowest products are Binders and Papers.
 
 8- write a query to find cities where not even a single order was returned.
