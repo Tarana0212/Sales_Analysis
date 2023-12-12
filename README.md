@@ -5,6 +5,10 @@ They sell Furniture, Office Supplies and Technology products and their customers
 The data set contains sales, profit and geographical information of Super Store.
 Our task is to analyse the sales data and identify weak areas and opportunities for Super Store to boost business growth.
 
+To do the analysis, I have used Microsoft sql server. At first I have cleaned the data and did a pre analysis. After that I have used basic to advance concepts of
+sql such as wildcards, aggregation, joins, bulitin functions, case statements,
+CTE, sub queries, correlated subqueries, window functions, Aggregation with window functions.
+
 Business Questions
 
 1- write a query to get total profit, first order date and latest order date for each category.
